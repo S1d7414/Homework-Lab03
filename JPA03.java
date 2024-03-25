@@ -1,5 +1,3 @@
-package Lab03;
-
 public class JPA03 {
     public static void main(String[] args) {
         int a,b=0;
