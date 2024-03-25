@@ -1,4 +1,3 @@
-package Lab03;
 import java.util.Scanner;
 public class JPA07 {
     public static void main(String[] args) {
