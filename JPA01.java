@@ -1,5 +1,3 @@
-package Lab03;
-
 import java.util.Scanner;
 
 public class JPA01 {
